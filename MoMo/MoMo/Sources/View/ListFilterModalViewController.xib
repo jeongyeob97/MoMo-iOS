@@ -198,6 +198,7 @@
                     <constraints>
                         <constraint firstAttribute="height" constant="42" id="IZs-Bv-iRJ"/>
                     </constraints>
+                    <fontDescription key="fontDescription" type="system" weight="medium" pointSize="15"/>
                     <state key="normal" title="적용"/>
                     <connections>
                         <action selector="touchApplyButton:" destination="-1" eventType="touchUpInside" id="ZZJ-K2-a2f"/>
